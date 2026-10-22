@@ -1,6 +1,6 @@
-/dados/
+.env
 /conhecimento/
-/.env
-/2026.*_APAGAR/
+/dados/
 __pycache__/
 *.pyc
+/2026.*_APAGAR/
